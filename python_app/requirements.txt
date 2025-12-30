@@ -1,0 +1,16 @@
+# Web Server
+Flask
+gunicorn
+
+# Core Logic & Data
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.9.0
+opencv-python-headless
+Pillow
+
+# Utilities
+Jinja2
+MarkupSafe
+python-dateutil
+pytz

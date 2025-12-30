@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
+ul {
+    list-style: none; /* removes bullets */
+    padding: 0;
+}
+
+li {
+    background: white;
+    margin: 8px auto;
+    padding: 10px;
+    width: 320px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* vertically center content */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* optional shadow */
+}
