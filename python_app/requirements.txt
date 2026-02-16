@@ -14,3 +14,6 @@ Jinja2
 MarkupSafe
 python-dateutil
 pytz
+
+# Database 
+Flask-SQLAlchemy
